@@ -96,7 +96,7 @@
         "transform": "lodash/{{member}}"
       }
     },
-    "outputFileTracingRoot": "D:\\belajar\\code\\javascript-project\\notes-app-frontend-1",
+    "outputFileTracingRoot": "D:\\belajar\\code\\javascript-project\\notes-app\\notes-app-frontend-1",
     "experimental": {
       "nodeMiddleware": false,
       "cacheLife": {
@@ -278,11 +278,11 @@
     "htmlLimitedBots": "Mediapartners-Google|Slurp|DuckDuckBot|baiduspider|yandex|sogou|bitlybot|tumblr|vkShare|quora link preview|redditbot|ia_archiver|Bingbot|BingPreview|applebot|facebookexternalhit|facebookcatalog|Twitterbot|LinkedInBot|Slackbot|Discordbot|WhatsApp|SkypeUriPreview|Yeti",
     "bundlePagesRouterDependencies": false,
     "turbopack": {
-      "root": "D:\\belajar\\code\\javascript-project\\notes-app-frontend-1"
+      "root": "D:\\belajar\\code\\javascript-project\\notes-app\\notes-app-frontend-1"
     },
     "configFileName": "next.config.js"
   },
-  "appDir": "D:\\belajar\\code\\javascript-project\\notes-app-frontend-1",
+  "appDir": "D:\\belajar\\code\\javascript-project\\notes-app\\notes-app-frontend-1",
   "relativeAppDir": "",
   "files": [
     ".next\\routes-manifest.json",
